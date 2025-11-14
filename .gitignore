@@ -1,0 +1,29 @@
+# Cache files
+cache/
+*.cache
+.cache/
+
+# API credentials
+.env
+api/secrets/
+
+# Session files
+sessions/
+tmp/
+
+# Uploaded files (optional - keep if tracking)
+# uploaded_img/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+error.log

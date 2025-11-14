@@ -37,6 +37,11 @@ $total_cart_counts = $count_cart_items->fetchColumn();
         </div>
         
         <div class="uniform-icons">
+            <a href="external_products_display.php" class="uniform-icon external-icon" title="Global Products">
+                <i class="fas fa-globe"></i>
+                <span class="icon-text">Global</span>
+            </a>
+            
             <a href="contact.php" class="uniform-icon help-icon" title="Help">
                 <i class="fas fa-phone"></i>
                 <span class="icon-text">Help</span>
